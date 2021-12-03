@@ -1,0 +1,36 @@
+{
+    "name": "power-platform-extension-pack",
+    "displayName": "Power Platform Extension Pack",
+    "description": "The collection of all the tools related to Power Platform & Dataverse.",
+    "publisher": "danish-naglekar",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Power-Maverick/PowerPlatform-VSCode-ExtensionPack.git"
+    },
+    "homepage": "https://github.com/Power-Maverick/PowerPlatform-VSCode-ExtensionPack",
+    "bugs": {
+        "url": "https://github.com/Power-Maverick/PowerPlatform-VSCode-ExtensionPack/issues"
+    },
+    "keywords": [
+        "Dataverse",
+        "Power Apps",
+        "Power Platform",
+        "Dynamics 365",
+        "Xrm",
+        "Dev Tools"
+    ],
+    "extensionPack": [ 
+        "danish-naglekar.dataverse-devtools", 
+        "danish-naglekar.pcf-builder", 
+        "microsoft-IsvExpTools.powerplatform-vscode",
+        "oleksandr-olashyn.portal-helper-vscode"
+    ]
+}
