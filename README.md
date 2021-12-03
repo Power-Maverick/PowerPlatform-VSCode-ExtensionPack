@@ -30,4 +30,6 @@ The [PCF Builder](https://marketplace.visualstudio.com/items?itemName=danish-nag
 
 ## ✨ Contributing
 
-Got a suggestion for the Power Platform Extension Pack? Submit a PR with an updated `package.json` and `README.md` and we'll take a look!
+Please submit issues with the extensions against the extension itself.
+
+To get a new package included in this extension pack, feel free to submit a PR with an updated `package.json` and `README.md`.
