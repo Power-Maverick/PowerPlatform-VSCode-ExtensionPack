@@ -3,7 +3,7 @@
     "displayName": "Power Platform Extension Pack",
     "description": "The collection of all the tools related to Power Platform & Dataverse.",
     "publisher": "danish-naglekar",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.62.0"
     },
