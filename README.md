@@ -28,6 +28,10 @@ The [Power Apps Portal Helper](https://marketplace.visualstudio.com/items?itemNa
 
 The [PCF Builder](https://marketplace.visualstudio.com/items?itemName=danish-naglekar.pcf-builder) extension helps with initializing, building and testing Power Apps Component Framework components.
 
+### Power Platform Connector Snippets
+
+The [Power Platform Connector](https://marketplace.visualstudio.com/items?itemName=DanielLaskewitz.power-platform-connectors) extension helps you develop Power Platform Connectors. It provides snippets to help you develop custom connectors more easily. The snippets contains all the properties that you need and the samples in the snippets will adhere to best practices.
+
 ## ✨ Contributing
 
 Please submit issues with the extensions against the extension itself.
